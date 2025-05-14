@@ -4,7 +4,7 @@
 To review the IT manager’s scope, goals, and risk assessment report of a fictional company Botium Toys as they are conducting an internal audit. Then, perform an internal audit by completing a controls and compliance checklist.
 
 ## Scope
-The scope of this audit is defined as the entire security program at Botium Toys. Identify and mitigate potential risks, threats, or vulnerabilities to critical assets. This includes their assets like employee equipment and devices, their internal network, and their systems. Ensure compliance with regulations related to internal processes and acceptance of online payments conducting business within the European Union (E.U.) Review the assets Botium Toys has and the controls and compliance practices they have in place.
+The scope of this audit is defined as the entire security program at Botium Toys. Identify and mitigate potential risks, threats, or vulnerabilities to critical assets. This includes their assets like employee equipment, devices, their internal network, and their systems. Ensure compliance with regulations related to internal processes and acceptance of online payments, conducting business within the European Union (E.U.) Review the assets Botium Toys has and the controls and compliance practices they have in place.
 
 ## Goals
 Provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture. Assess existing assets and complete the controls and compliance checklist to determine which controls and compliance best practices that need to be implemented to improve Botium Toys’ security posture.
