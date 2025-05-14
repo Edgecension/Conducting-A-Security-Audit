@@ -54,8 +54,6 @@ affects productivity when employees/vendors submit a ticket to the IT department
 ### Tools Used
 
 - Implemented the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF)
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
 <a href="https://docs.google.com/document/d/1Wu5maJVR65YER7_cQAlPMOFMkEQigkfvVIbVKaFDg4g/edit?usp=sharing">Controls and Compliance Checklist Exemplar</a>
