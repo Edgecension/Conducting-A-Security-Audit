@@ -10,8 +10,7 @@ The scope of this audit is defined as the entire security program at Botium Toys
 Provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture. Assess existing assets and complete the controls and compliance checklist to determine which controls and compliance best practices that need to be implemented to improve Botium Toys’ security posture.
 
 ## Current Assets
-Current assets
-Assets managed by the IT Department include:
+Current assets managed by the IT Department include:
 - On-premises equipment for in-officce business needs
 - Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
 - Storefront products available for retail sale on site and online; stored in the company’s adjoining warehouse
