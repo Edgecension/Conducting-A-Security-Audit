@@ -1,4 +1,4 @@
-# Conducting A Security Audit
+# Conducting a Security Audit
 
 ## Objective
 [Brief Objective - Remove this afterwards]
